@@ -1,5 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/GoldieBowyien)
-
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/GoldieBowyien)
 <!---
 ![Header](Github-Profile-Header/github-header-image.png)
 --->
