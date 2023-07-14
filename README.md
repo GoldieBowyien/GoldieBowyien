@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GoldieBowyien&column=6&margin-w=15&margin-h=15" alt="GoldieBowyien" /></a> </p>
 
-As a Full Stack Web Developer, I'm eager to join a team that solves challenges in innovative manners. I am able to quickly learn and use new technology. Among my specialties are Python, HTML, CSS, Javascript, Django, Node.js, and express. I self-taught myself these skills three years ago. 
+As a Full Stack Web Developer, I'm eager to join a team that solves challenges in innovative manners. I am able to quickly learn and use new technology. Among my specialties are Python, HTML, CSS, Javascript, Django, Node.js, and Express. I self-taught myself these skills three years ago. 
 
 ### About Me
 
