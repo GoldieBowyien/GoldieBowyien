@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GoldieBowyien&column=7&margin-w=15&margin-h=15" alt="GoldieBowyien" /></a> </p>
 
-As a Data Engineer, I'm eager to join a team that tackles challenges in innovative ways. I have a proven ability to quickly learn and adapt to new technologies. My expertise includes Python, SQL, ETL processes, data pipelines, and tools like Apache Spark and Airflow. I began self-teaching these skills three years ago and have since honed them through hands-on projects and continuous learning.
+As a Data Engineer, I have proven ability to quickly learn and adapt to new technologies. My expertise includes Python, Pyspark, SQL, ETL Data processes, and tools like Apache Spark and Airflow. I have utilised mentioned skills for the past 2 years and have since honed them through hands-on projects and continuous learning.
 
 ### About Me
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 👀 I’m passionate about learning everything related to technology.
-- 👨‍🎓 I earned a bachelor's degree in Mathematics and Computer Science in 2021.
+- 👀 I’m passionate about learning everything related to ennovation tech.
+- 👨‍🎓 I have bachelor's degree in Mathematics and Computer Science.
 - 👯 I’m eager to collaborate on projects that offer opportunities to learn and grow.
 - 🔭 I’m currently working on [Download_Allocator_Design](https://github.com/GoldieBowyien/Download_Allocator_Design.git)
-- 🌱 I’m currently learning **Python, Pyspark and Django**
-- 🥅 2023 Goals: Contribute to and collaborate on more projects.
-- ⚡ Fun fact: I love playing chess in my spare time.
+- 🌱 I’m currently learning **AI , Machine Learning engineering and VectorDB**
+- 🥅 2025 Goals: Contribute to and collaborate on more projects.
+- ⚡ Fun fact: Travelling.
 - 📫 How to reach me **GoldieBowyien@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
